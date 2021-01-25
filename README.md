@@ -1,0 +1,2 @@
+# Chatbot-project
+A chatbot is a computer software able to interact with humans using a natural language. They usually rely on machine learning, especially on NLP. Apple’s Siri, Amazon’s Alexa, Google Assistant, and Microsoft’s Cortana are some well-known examples of software able to process natural languages. This article shows how to create a simple chatbot in Python using the library ChatterBot. Our bot will be used for small talk, as well as to answer some math questions. Here, we’ll scratch the surface of what’s possible in building custom chatbots and NLP in general.
